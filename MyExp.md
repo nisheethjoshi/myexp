@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # This is Heading
 ## This is Second Heading
 ### This is Third Heading
@@ -20,6 +19,4 @@
 * Developing Data Products
 * Data Science Capstone
 
-=======
-# myexp
->>>>>>> 69938070d55098f372e3d4a70b9abda9a385e2fd
+
